@@ -1,0 +1,21 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "public",
+
+    "builddrafts": false,
+
+    "baseurl": "http://makingit.mikejanger.net/",
+    "canonifyurls": true,
+    "permalinks": {
+        "post": ":year/:month/:day/:title/",
+        "fixed": ":title/"
+    },
+
+    "params": {
+        "Title": "Making It",
+        "Tagline": "",
+        "Author": "Mike Janger",
+        "DateForm": "Jan 2 2006"
+    }
+}

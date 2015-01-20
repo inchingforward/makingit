@@ -1,4 +1,4 @@
 Making It
 ---
 
-A blog about making stuff.
+A [blog](http://makingit.mikejanger.net) about making stuff.
